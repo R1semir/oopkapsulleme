@@ -1,0 +1,10 @@
+C:\Users\legen\source\repos\kapsulleme\kapsulleme\bin\Debug\kapsulleme.exe.config
+C:\Users\legen\source\repos\kapsulleme\kapsulleme\bin\Debug\kapsulleme.exe
+C:\Users\legen\source\repos\kapsulleme\kapsulleme\bin\Debug\kapsulleme.pdb
+C:\Users\legen\source\repos\kapsulleme\kapsulleme\obj\Debug\kapsulleme.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\kapsulleme\kapsulleme\obj\Debug\kapsulleme.Form1.resources
+C:\Users\legen\source\repos\kapsulleme\kapsulleme\obj\Debug\kapsulleme.Properties.Resources.resources
+C:\Users\legen\source\repos\kapsulleme\kapsulleme\obj\Debug\kapsulleme.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\kapsulleme\kapsulleme\obj\Debug\kapsulleme.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\kapsulleme\kapsulleme\obj\Debug\kapsulleme.exe
+C:\Users\legen\source\repos\kapsulleme\kapsulleme\obj\Debug\kapsulleme.pdb
